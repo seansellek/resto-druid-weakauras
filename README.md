@@ -3,7 +3,7 @@
 
  This WeakAura tracks the status of Harmony, Wild Mushroom, and Lifebloom for Resto Druids. Here's a GIF showing it in action: 
 
-![Imgur](http://i.imgur.com/87UG8SI.gifv)
+![Imgur](screenshot.gif)
 
 ## Background
 
